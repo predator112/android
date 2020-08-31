@@ -10,7 +10,7 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 
 To initialize your local repository use a command like this:
 ```
-repo init -u https://github.com/Lineage-X/android.git -b ten
+repo init -u https://github.com/predator112/android.git -b ten
 ```
 Then to sync up:
 ```
